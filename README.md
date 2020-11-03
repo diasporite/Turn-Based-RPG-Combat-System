@@ -7,3 +7,4 @@ Each side can have up to 3 combatants. Turns are sorted in order of the combatan
 **Features**
 - Types - each combatant can have up to 2 elemental types. This affects what attacks they are weak, resistant or immune to.
 - Analysis panels - the stats of each combatant in the fight can be viewed, including any stat changes.
+- Auto attack mode - A mode in which the player combatants use regular attacks automatically. The game speed is also sped up to resolve battles quicker. In a full game, this would be useful for enemies much weaker than the party.
