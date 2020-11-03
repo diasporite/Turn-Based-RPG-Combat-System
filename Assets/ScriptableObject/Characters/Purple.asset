@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1c871a11f55734fb07b119c0eb4a9a, type: 3}
+  m_Name: Purple
+  m_EditorClassIdentifier: 
+  charName: Purple
+  id: 9
+  type1: 90
+  type2: 0
+  learnableSkills:
+  - level: 1
+    id: 20
+  - level: 1
+    id: 120
+  baseExpAtLv: 58
+  baseExpReward: 64
+  baseMoneyReward: 74
+  baseHp: 146
+  baseMp: 144
+  baseAtk: 165
+  baseDef: 165
+  baseSpd: 42
+  baseLck: 39
+  sprite: {fileID: 21300000, guid: f0e5ae4062d25fe4885c536abdfb93b5, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c881e87536790d54399e45dfd9c95c40, type: 3}
+  m_Name: Shine
+  m_EditorClassIdentifier: 
+  skillName: Shine
+  id: 110
+  skillType: 110
+  mpCost: 3
+  description: Light type attack, 70 base power. Hits one opponent.
+  attackAll: 0
+  power: 70
+  accuracy: 100

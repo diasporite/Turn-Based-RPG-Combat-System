@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1c871a11f55734fb07b119c0eb4a9a, type: 3}
+  m_Name: Orange
+  m_EditorClassIdentifier: 
+  charName: Orange
+  id: 4
+  type1: 70
+  type2: 80
+  learnableSkills:
+  - level: 1
+    id: 30
+  - level: 60
+    id: 190
+  baseExpAtLv: 155
+  baseExpReward: 118
+  baseMoneyReward: 188
+  baseHp: 148
+  baseMp: 100
+  baseAtk: 205
+  baseDef: 205
+  baseSpd: 31
+  baseLck: 61
+  sprite: {fileID: 21300000, guid: cc42baf527aa9fa41b32122c0aaf8ebe, type: 3}

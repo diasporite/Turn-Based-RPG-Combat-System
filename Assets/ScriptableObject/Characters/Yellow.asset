@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1c871a11f55734fb07b119c0eb4a9a, type: 3}
+  m_Name: Yellow
+  m_EditorClassIdentifier: 
+  charName: Yellow
+  id: 5
+  type1: 60
+  type2: 0
+  learnableSkills:
+  - level: 1
+    id: 50
+  - level: 5
+    id: 230
+  - level: 16
+    id: 110
+  baseExpAtLv: 76
+  baseExpReward: 100
+  baseMoneyReward: 162
+  baseHp: 130
+  baseMp: 128
+  baseAtk: 172
+  baseDef: 54
+  baseSpd: 239
+  baseLck: 166
+  sprite: {fileID: 21300000, guid: 7192b38fade60cc49ad7d3163f371112, type: 3}

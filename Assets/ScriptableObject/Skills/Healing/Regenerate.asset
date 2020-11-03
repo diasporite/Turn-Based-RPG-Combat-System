@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 69394c1077f29d945947898810fbb7f1, type: 3}
+  m_Name: Regenerate
+  m_EditorClassIdentifier: 
+  skillName: Regenerate
+  id: 800
+  skillType: 10
+  mpCost: 10
+  description: Heals by 100HP.
+  healAll: 0
+  healByAmount: 1
+  healPower: 100
+  healProportion: 0.25

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d1c871a11f55734fb07b119c0eb4a9a, type: 3}
+  m_Name: Cyan
+  m_EditorClassIdentifier: 
+  charName: Cyan
+  id: 7
+  type1: 50
+  type2: 0
+  learnableSkills:
+  - level: 1
+    id: 60
+  - level: 12
+    id: 240
+  - level: 13
+    id: 800
+  baseExpAtLv: 140
+  baseExpReward: 142
+  baseMoneyReward: 155
+  baseHp: 115
+  baseMp: 155
+  baseAtk: 128
+  baseDef: 168
+  baseSpd: 111
+  baseLck: 149
+  sprite: {fileID: 21300000, guid: 7a1fbbbeee520a245a80b8173cf83a31, type: 3}
