@@ -1,2 +1,3 @@
 # Turn-Based-RPG-Combat-System
- A basic 2D turn based RPG combat system.
+
+This is a simple turn based combat system made with C# and Unity 2019.1. Most of the work on this project was done back in August 2020. I made this as a way to learn programming, using online resources such as documentation, forum posts and articles to help find ways to program certain functions.
