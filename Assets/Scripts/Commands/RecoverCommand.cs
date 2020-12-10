@@ -82,6 +82,8 @@ namespace RPG_Project
                 FloatingText hpHealNum = hpHealNumber.GetComponent<FloatingText>();
 
                 hpHealNum.StartCoroutine(hpHealNum.TextFloatCo(hp.ToString(), hpColour, outlineColour));
+                
+                ui.UpdateStats(target);
             }
 
             yield return new WaitForSeconds(delay);
